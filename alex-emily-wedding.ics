@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Alex & Emily Wedding//Calendar Event//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:alex-emily-wedding-20260523@mixtsolutions.com
+DTSTAMP:20260109T020000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Alex + Emily Wedding 🎉
+LOCATION:The Werner House, 1640 E Broad St, Columbus, OH 43203, USA
+DESCRIPTION:Alex and Emily are getting married and having a big ole party with tacos and alcohol and music and matrimony.\n\nWe will have a small ceremony with family and then a celebration after at the Werner Home with drinks and food.\n\nTime TBD (afternoon/evening).
+END:VEVENT
+
+END:VCALENDAR
